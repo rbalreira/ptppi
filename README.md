@@ -12,7 +12,7 @@ Desenvolvimento de uma versão inspirada na série de videojogos designada por �
 - Executar o ficheiro [game.sb2](game.sb2) no Scratch.
 
 # Documentação
-- [Relatório](relatorio.pdf)
+- [Relatório](report.pdf)
 
 # Autores
 - Ana Castro
